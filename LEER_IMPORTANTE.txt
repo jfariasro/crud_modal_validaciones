@@ -1,0 +1,9 @@
+Si deseas ejecutar la base de datos, primero identifica el archivo modal_validaciones.sql
+
+te vas a phpmyadmin y lo importas.
+
+Una vez ejecutado, debería funcionar correctamente.
+
+Credenciales para el login:
+admin@admin.com
+12345678
